@@ -1,0 +1,151 @@
+[
+  {
+    "input_text": "INVOICE LOGO Yukon Packing 443 Maple Avenue Ontario; NT B4M 3B7 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29/01/2019 765 Polar Ave 185 Red River Ave PO.# 1630/2019 Vancouver; AB T4 Bumaby; NT 281 DUE DATE 26/04/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smok...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing 443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice Date 29/01/2019 Alferd Griner Packer Alferd Griner Packer 2.0.# 1630/2019 765 Polar Bear Ave 185 Red River Ave Due Date 26/04/2019 Vancouver; AB T4 Bumaby, NT 281 Invoice # CA-001 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chin...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing  INVOICE 443 Maple Avenue Ontario, NT B4M 387 BIII To Shlp To Involce # CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29/01/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630/2019 Vancouver; AB T4 Burnaby, NT 281 Due Date 26/04/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smo...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "CA-0 0 1 Yukon Packing 443 Maple Avenue Invoice Date Ontario, NT B4M 3B7 29/01/2019 P0# 1630/2019 Bill To Ship To Alferd Griner Packer Alferd Griner Packer Due Date 765 Bear Ave 185 Red River Ave 26/04/2019 Vancouver, AB T4 Burnaby; NT 281 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fill...",
+    "output": {
+      "INVOICE_NUMBER": " CA-0 0 1",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " 8152.25"
+    }
+  },
+  {
+    "input_text": "INVOICE Yukon Packing 443 Maple Avenue Ontario NT BAM 387 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29/01/2019 765 Polar Bear Ave 185 Red River Ave PO # 1630/2019 Vancouver; AB T4 Burnaby, NT 281 DUE DATE 26/04/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smok...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "INVOICE LOGO From Yukon Packing 443 Maple Avenue Ontario, NT BAM 3B7 Bill To Ship To Invoice # CA-001 Allerd Griner Packer Alferd Griner Packer Invoice Date 29/01/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630/2019 Vancouver; AB T4 Bumaby, NT 281 Due Date 26/04/2019 Quantity Description Unit Pri...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Inxoiee Yukon Packing 443 Maple Avenue Ontario, NT B4M 3B7 Bill Je Ship Jc Jnvcice CA-001 Alferd Griner Packer Alferd Griner Packer fnrciee Dale 29/01/2019 765 Polar Bear Ave 185 Red River Ave P@ # 1630/2019 Vancouver; AB T4 Burnaby, NT 281 Jue Dale 26/04/2019 Gly Deserisicn Uut Jrice (Uncunt Smoked...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "INVOICE LOGO FROM BILL TO SHIP TO INVOICE # CA-001 Yukon Packing Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29/01/2019 443 Maple Avenue 765 Polar Bear Ave 185 Red River Ave PO.# 1630/2019 Ontario NT BAM 3B7 Vancouver; AB T4 Bumaby NT 281 DUE DATE 26/04/2019 QTY DESCRIPTION UNIT PRICE AMO...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing  443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29/01/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630/2019 Vancouver, AB T4 Burnaby, NT 281 Due Date 26104/2019 Qty Description Unit Price Amount Smoked chinoo...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26104/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " 5152.25"
+    }
+  },
+  {
+    "input_text": "INVOICE # CA-001 INVOICE INVOICE DATE 29/01/2019 Po# 1630/2019 DUE DATE 26/04/2019 FROM BILL TO SHIP TO INVOICE TOTAL Yukon Packing Alferd Griner Packer Alferd Griner Packer 443 Maple Avenue 765 Polar Bear Ave 185 Red River Ave 8152.25 Ontario NT B4M 387 Vancouver; AB T4 Bumaby, NT 281 DESCRIPTION U...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon 443 Maple Avenue LOGO Ontario, NT B4M 387 Bill To Ship To Invoice = CA-00i Alferd Griner Packer Allerd Griner Packer Invoice Dace 29101/2019 765 Polar Bear Ave 185 Red River Ave 1,0.# 1630/2019 Vancouver, AB T4 Bumaby: NT 281 Duc Dace 26/04/2019 Description Unic Price Amounc Smoked saim on fll...",
+    "output": {
+      "INVOICE_NUMBER": " CA-00i",
+      "INVOICE_DATE": " 29101/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon",
+      "TOTAL_AMOUNT": " 5152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing INVOICE 443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice # CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29/01/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630/2019 Vancouver; AB T4 Buraby, NT 281 Due Date 26/04/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoke...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing 443 Maple Avenue LOGO Ontario; NT B4M 3B7 8 Bill To Invoice Date 29/01/2019 Alferd Griner Packer Alferd Griner Packer Po# 1630/2019 765 Polar Bear Ave 185 Red River Ave Due Date 26/04/2019 Vancouver; AB T4 Burnaby, NT 281 1 Qty Description Unit Price Amount Smoked chinook salmon fillet...",
+    "output": {
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing 443 Maple Avenue Ontanio, NT B4M 387 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29/01/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630/2019 Vancouver; AB T4 Burnaby, NT 281 DUE DATE 26/04/2019 Invoice Total S152.25 QTY DESCRIPTION UNIT PRI...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  },
+  {
+    "input_text": "Yukon Packing INVOICE NO. CA-001 443 Maple Avenue Ontario, NT B4M 3B7 BILL To SHIP To INVOICE DATE 29/01/2019 Alferd Griner Packer Alferd Griner Packer P.0.# 1630/2019 765 Polar Bear Ave 185 Red River Ave Due DATE 26/04/2019 Vancouver; AB T4 Burnaby, NT 281 QtY DESCRIPTION UNIT PRICE AMOUNT Smoked c...",
+    "output": {
+      "INVOICE_NUMBER": " CA-001",
+      "INVOICE_DATE": " 29/01/2019",
+      "DUE_DATE": " 26/04/2019",
+      "VENDOR_NAME": " Yukon Packing",
+      "TOTAL_AMOUNT": " S152.25"
+    }
+  }
+]

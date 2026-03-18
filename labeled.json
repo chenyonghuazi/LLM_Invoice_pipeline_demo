@@ -1,0 +1,1847 @@
+[
+    {
+        "id": 31,
+        "annotations": [
+            {
+                "id": 1,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 90,
+                            "end": 96,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "DnAPzOu0Yh",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 152,
+                            "end": 162,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "vgszigxQ9x",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 251,
+                            "end": 261,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "3KBEJXnp8r",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 13,
+                            "end": 26,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "NuMn8sq3dg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 434,
+                            "end": 441,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "xYY9Saspk-",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:09:24.608986Z",
+                "updated_at": "2026-03-18T13:14:05.118267Z",
+                "draft_created_at": "2026-03-18T12:53:32.607549Z",
+                "lead_time": 1038.316,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "75d2af43-d9cc-4529-9f5a-f4919ec8bb33",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 31,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "INVOICE LOGO Yukon Packing 443 Maple Avenue Ontario; NT B4M 3B7 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29\/01\/2019 765 Polar Ave 185 Red River Ave PO.# 1630\/2019 Vancouver; AB T4 Bumaby; NT 281 DUE DATE 26\/04\/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Sublotal 145.00 GST 5.0% 7.25 TOTAL S152.25 3 &8F TERMS & CONDITIONS Payment is due within 15 days Jhank ycul Please make cheques payable to: Yukon Packing Bear"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:14:05.210446Z",
+        "allow_skip": true,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 32,
+        "annotations": [
+            {
+                "id": 2,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 248,
+                            "end": 254,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "Z3sG0-vZsT",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 80,
+                            "end": 90,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "MjiYwbU6MK",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 195,
+                            "end": 205,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "VqsVqggJJl",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "dzkg9zLrKA",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 435,
+                            "end": 442,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "Mqtt-Na_MC",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:14:46.343708Z",
+                "updated_at": "2026-03-18T13:14:46.343708Z",
+                "draft_created_at": "2026-03-18T13:09:53.541464Z",
+                "lead_time": 96.928,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "c407e963-3e50-4bf4-93a4-9f04c9c6dbc7",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 32,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing 443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice Date 29\/01\/2019 Alferd Griner Packer Alferd Griner Packer 2.0.# 1630\/2019 765 Polar Bear Ave 185 Red River Ave Due Date 26\/04\/2019 Vancouver; AB T4 Bumaby, NT 281 Invoice # CA-001 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Pouline curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7,25 INVOICE TOTAL S152.25 3 R8F Terms Conditions Payment is due wilhin 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:14:46.397491Z",
+        "allow_skip": true,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 33,
+        "annotations": [
+            {
+                "id": 3,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 86,
+                            "end": 92,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "VxFzGQZSj1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 148,
+                            "end": 158,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "KVjnnxgEp_",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 252,
+                            "end": 262,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "aMVvx-cyfO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "04QFbLNbaG",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 435,
+                            "end": 442,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "x1__iixzP1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:16:07.862865Z",
+                "updated_at": "2026-03-18T13:16:07.862865Z",
+                "draft_created_at": "2026-03-18T13:14:59.902479Z",
+                "lead_time": 80.513,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "84c3ae38-6575-4c0d-a188-dbdd09a78312",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 33,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing  INVOICE 443 Maple Avenue Ontario, NT B4M 387 BIII To Shlp To Involce # CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630\/2019 Vancouver; AB T4 Burnaby, NT 281 Due Date 26\/04\/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Pouline curds 5.00 15.00 Subtolal 145.00 GST 5.0% 7.25 TOTAL S152.25 A X8^ Terms & Conditions Payment due within 15 Please make cheques payable to: Yukon Packing days"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:16:07.917224Z",
+        "allow_skip": true,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 34,
+        "annotations": [
+            {
+                "id": 4,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 8,
+                            "text": "CA-0 0 1",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "LuMX64c-ha",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 73,
+                            "end": 83,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "eqSi5Bbgrv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 196,
+                            "end": 206,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "a_7YioNKID",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 9,
+                            "end": 22,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "zxP_vq6nKy",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 421,
+                            "end": 428,
+                            "text": "8152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "ssjYDI1DGg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:18:20.204552Z",
+                "updated_at": "2026-03-18T13:18:20.204552Z",
+                "draft_created_at": "2026-03-18T13:16:32.744240Z",
+                "lead_time": 130.367,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "f8adcff6-b31f-43bb-a97c-f9c590e5481d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 34,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "CA-0 0 1 Yukon Packing 443 Maple Avenue Invoice Date Ontario, NT B4M 3B7 29\/01\/2019 P0# 1630\/2019 Bill To Ship To Alferd Griner Packer Alferd Griner Packer Due Date 765 Bear Ave 185 Red River Ave 26\/04\/2019 Vancouver, AB T4 Burnaby; NT 281 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Pouline curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7.25 Invoice Total: 8152.25 } -R8h Terms & Conditions Payment is due within 15 days Please make cheques to: Yukon Packing Polar payable"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:18:20.262593Z",
+        "allow_skip": true,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 35,
+        "annotations": [
+            {
+                "id": 5,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 84,
+                            "end": 90,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "hN3Tl9pyjS",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 146,
+                            "end": 156,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "Fr7Go3QK0p",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 251,
+                            "end": 261,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "1PJrtvEfeo",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 8,
+                            "end": 21,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "sDYoYeToGU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 434,
+                            "end": 441,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "cSwC0_0_v0",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:19:18.707261Z",
+                "updated_at": "2026-03-18T13:19:18.707261Z",
+                "draft_created_at": "2026-03-18T13:18:33.683875Z",
+                "lead_time": 57.412,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "169c0ff0-1691-4dbb-a996-a85377d46b0c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 35,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "INVOICE Yukon Packing 443 Maple Avenue Ontario NT BAM 387 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave PO # 1630\/2019 Vancouver; AB T4 Burnaby, NT 281 DUE DATE 26\/04\/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Sublotal 145.00 GST 5.0% 7.25 TOTAL S152.25 3 R8A TERMS & CONDITIONS Payment is due within 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:19:18.762409Z",
+        "allow_skip": true,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 36,
+        "annotations": [
+            {
+                "id": 6,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 95,
+                            "end": 101,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "4gnVS1gSVw",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 157,
+                            "end": 167,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "cMhE9q3iJv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 260,
+                            "end": 270,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "CjrnVH8HJk",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 18,
+                            "end": 31,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "uLTwgSji9X",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 448,
+                            "end": 455,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "gI8gGV7uTv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:19:59.352068Z",
+                "updated_at": "2026-03-18T13:19:59.352068Z",
+                "draft_created_at": "2026-03-18T13:19:32.490058Z",
+                "lead_time": 39.908,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "9b8acb11-e39c-41fe-8cb8-eb5ea27b508e",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 36,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "INVOICE LOGO From Yukon Packing 443 Maple Avenue Ontario, NT BAM 3B7 Bill To Ship To Invoice # CA-001 Allerd Griner Packer Alferd Griner Packer Invoice Date 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630\/2019 Vancouver; AB T4 Bumaby, NT 281 Due Date 26\/04\/2019 Quantity Description Unit Price Amount Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7,25 Total S152.25 H Rh Terms & Conditions Payment is due within 15 days Please make cheques payable o: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:19:59.406733Z",
+        "allow_skip": true,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 37,
+        "annotations": [
+            {
+                "id": 7,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 83,
+                            "end": 89,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "cI3RwHMJiw",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 145,
+                            "end": 155,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "xnwdpUttol",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 250,
+                            "end": 260,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "2cdp5N8w0w",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 8,
+                            "end": 21,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "CTFfi4Ag79",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 432,
+                            "end": 439,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "YJ9jNKh2wR",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:20:39.087655Z",
+                "updated_at": "2026-03-18T13:20:39.087655Z",
+                "draft_created_at": "2026-03-18T13:20:12.311734Z",
+                "lead_time": 38.857,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "270a0752-56cc-4b7b-8c3b-be4e7e06c8fd",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 37,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Inxoiee Yukon Packing 443 Maple Avenue Ontario, NT B4M 3B7 Bill Je Ship Jc Jnvcice CA-001 Alferd Griner Packer Alferd Griner Packer fnrciee Dale 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave P@ # 1630\/2019 Vancouver; AB T4 Burnaby, NT 281 Jue Dale 26\/04\/2019 Gly Deserisicn Uut Jrice (Uncunt Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuls 15.00 30.00 Pouline curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7.25 Jetal S152.25 3 Rh Jerms Cenditicns Uhank you Payment is due within 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:20:39.143119Z",
+        "allow_skip": true,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 38,
+        "annotations": [
+            {
+                "id": 8,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 44,
+                            "end": 50,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "ywCCf7xkAU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 120,
+                            "end": 130,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "HNCV5ay_d8",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 259,
+                            "end": 269,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "SoNM-U76oj",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 51,
+                            "end": 64,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "WKwwpz2SY1",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 442,
+                            "end": 449,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "R11EpXAHJV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:22:04.801879Z",
+                "updated_at": "2026-03-18T13:22:04.801879Z",
+                "draft_created_at": "2026-03-18T13:21:38.236321Z",
+                "lead_time": 84.971,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "550788ef-6502-4b27-8c79-8798c59dba9f",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 38,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "INVOICE LOGO FROM BILL TO SHIP TO INVOICE # CA-001 Yukon Packing Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29\/01\/2019 443 Maple Avenue 765 Polar Bear Ave 185 Red River Ave PO.# 1630\/2019 Ontario NT BAM 3B7 Vancouver; AB T4 Bumaby NT 281 DUE DATE 26\/04\/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7,25 TOTAL S152.25 HR8h TERMS & CONDITIONS Payment is due wilhin 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:22:04.859391Z",
+        "allow_skip": true,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 39,
+        "annotations": [
+            {
+                "id": 9,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 76,
+                            "end": 82,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "Mc6Mglpg6H",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 138,
+                            "end": 148,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "kgm86gls7G",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 242,
+                            "end": 252,
+                            "text": "26104\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "1GDSSGcRnh",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "j8E0mxSziP",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 433,
+                            "end": 440,
+                            "text": "5152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "s8SFeJL-TA",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:28:32.987595Z",
+                "updated_at": "2026-03-18T13:28:32.988595Z",
+                "draft_created_at": "2026-03-18T13:22:17.617185Z",
+                "lead_time": 386.371,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "45caf2b5-c2c7-4620-87dc-133eab2432be",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 39,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing  443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630\/2019 Vancouver, AB T4 Burnaby, NT 281 Due Date 26104\/2019 Qty Description Unit Price Amount Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Sublotal 145.00 GST 5.0% 7.25 Invoice Total 5152.25 H R86 Terms Conditions Payment is due within 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:28:33.044636Z",
+        "allow_skip": true,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 40,
+        "annotations": [
+            {
+                "id": 10,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 10,
+                            "end": 16,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "XW-Km9ZEFO",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 38,
+                            "end": 48,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "a7z_tE2Ri2",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 72,
+                            "end": 82,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "Vz0Ikzw4QE",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 118,
+                            "end": 131,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "JX5Vk2UoWh",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 459,
+                            "end": 466,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "-0av9ccMO3",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:34:21.731234Z",
+                "updated_at": "2026-03-18T13:34:21.731234Z",
+                "draft_created_at": "2026-03-18T13:33:21.272321Z",
+                "lead_time": 345.482,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "99368a67-5d08-442d-b7f5-f60d6a03e0e6",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 40,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "INVOICE # CA-001 INVOICE INVOICE DATE 29\/01\/2019 Po# 1630\/2019 DUE DATE 26\/04\/2019 FROM BILL TO SHIP TO INVOICE TOTAL Yukon Packing Alferd Griner Packer Alferd Griner Packer 443 Maple Avenue 765 Polar Bear Ave 185 Red River Ave 8152.25 Ontario NT B4M 387 Vancouver; AB T4 Bumaby, NT 281 DESCRIPTION UNIT PRICE QTY AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 SUBTOTAL 145.00 GST 5,0% 7.25 TOTAL S152.25 X -A8h TERMS & CONDITIONS Payment is due within 15 Please make cheques payable to: Yukon Packing days"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:34:21.787376Z",
+        "allow_skip": true,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 41,
+        "annotations": [
+            {
+                "id": 11,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 74,
+                            "end": 80,
+                            "text": "CA-00i",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "GQbXQKwiYI",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 136,
+                            "end": 146,
+                            "text": "29101\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "GnyQvSUqfF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 241,
+                            "end": 251,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "sKGwOW7zxU",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 5,
+                            "text": "Yukon",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "H5mOCpR4Rd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 415,
+                            "end": 422,
+                            "text": "5152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "JDHd_P9MqS",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:35:56.685173Z",
+                "updated_at": "2026-03-18T13:35:56.685173Z",
+                "draft_created_at": "2026-03-18T13:34:57.696871Z",
+                "lead_time": 72.761,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "22a2f09a-6466-409b-b3bc-96d135620980",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 41,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon 443 Maple Avenue LOGO Ontario, NT B4M 387 Bill To Ship To Invoice = CA-00i Alferd Griner Packer Allerd Griner Packer Invoice Dace 29101\/2019 765 Polar Bear Ave 185 Red River Ave 1,0.# 1630\/2019 Vancouver, AB T4 Bumaby: NT 281 Duc Dace 26\/04\/2019 Description Unic Price Amounc Smoked saim on fllet 100,00 100,00 Maple bacon doughnuls 15.00 30,00 Portine curds 15 0Q Subcocal 145 Wm GST 5.0% 7,25 INVOICE TOTAL 5152.25 3 RM8h \"1\"erms & (oncicicts Payment is due within 15 days Please make cheques payable Yukon Packing Packing chincor"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:35:56.740585Z",
+        "allow_skip": true,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 42,
+        "annotations": [
+            {
+                "id": 12,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 85,
+                            "end": 91,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "bti6GCKQRB",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 147,
+                            "end": 157,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "7wXpz6tT44",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 250,
+                            "end": 260,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "-O3v2SSlB5",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "Kz-xI7sTgN",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 433,
+                            "end": 440,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "WMH0XI-_73",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:36:56.892853Z",
+                "updated_at": "2026-03-18T13:36:56.892853Z",
+                "draft_created_at": "2026-03-18T13:36:13.942156Z",
+                "lead_time": 54.102,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "4c2712a7-eb3a-417f-bca1-0f55dcfac70d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 42,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing INVOICE 443 Maple Avenue Ontario, NT B4M 3B7 Bill To Ship To Invoice # CA-001 Alferd Griner Packer Alferd Griner Packer Invoice Date 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630\/2019 Vancouver; AB T4 Buraby, NT 281 Due Date 26\/04\/2019 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Pouline curds 5.00 15.00 Subtolal 145.00 GST 5.0% 7.25 TOTAL S152.25 A X68^ Terms & Conditions Payment due within 15 Please make cheques payable to: Yukon Packing days"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:36:56.947416Z",
+        "allow_skip": true,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 43,
+        "annotations": [
+            {
+                "id": 13,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 79,
+                            "end": 89,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "y4ytu8pNjV",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 192,
+                            "end": 202,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "PR0SRU7YYC",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "TRNbmzuSlF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 410,
+                            "end": 417,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "Aw4kKDKEyc",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:41:01.814519Z",
+                "updated_at": "2026-03-18T13:41:01.814519Z",
+                "draft_created_at": "2026-03-18T13:40:55.900162Z",
+                "lead_time": 241.886,
+                "prediction": {},
+                "result_count": 4,
+                "unique_id": "7ea6f890-c9f0-4026-879f-dec80a87c1db",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 43,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing 443 Maple Avenue LOGO Ontario; NT B4M 3B7 8 Bill To Invoice Date 29\/01\/2019 Alferd Griner Packer Alferd Griner Packer Po# 1630\/2019 765 Polar Bear Ave 185 Red River Ave Due Date 26\/04\/2019 Vancouver; AB T4 Burnaby, NT 281 1 Qty Description Unit Price Amount Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Pouline curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7.25 Total S152.25 2 &8h Terms Conditions Payment is due within 15 days Please make cheques payable to: Yukon Packing Ship"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:41:01.870485Z",
+        "allow_skip": true,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 44,
+        "annotations": [
+            {
+                "id": 14,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 77,
+                            "end": 83,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "u1fgLlIVKv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 139,
+                            "end": 149,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "aYM8nwseD6",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 243,
+                            "end": 253,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "AWou32IPFd",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "vMZ47qd7eR",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 268,
+                            "end": 275,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "NtH0jizLaF",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:41:33.598267Z",
+                "updated_at": "2026-03-18T13:41:33.598267Z",
+                "draft_created_at": "2026-03-18T13:41:19.593943Z",
+                "lead_time": 30.529,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "65bca9ab-730e-44cc-a7e6-ad64eedeae80",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 44,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing 443 Maple Avenue Ontanio, NT B4M 387 BILL TO SHIP TO INVOICE # CA-001 Alferd Griner Packer Alferd Griner Packer INVOICE DATE 29\/01\/2019 765 Polar Bear Ave 185 Red River Ave Po# 1630\/2019 Vancouver; AB T4 Burnaby, NT 281 DUE DATE 26\/04\/2019 Invoice Total S152.25 QTY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Subtotal 145.00 GST 5.0% 7.25  R8h TERMS & CONDITIONS Payment is due within 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:41:33.652309Z",
+        "allow_skip": true,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 45,
+        "annotations": [
+            {
+                "id": 15,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "start": 26,
+                            "end": 32,
+                            "text": "CA-001",
+                            "labels": [
+                                "B-INVOICE_NUMBER"
+                            ]
+                        },
+                        "id": "waoFznCQJv",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 99,
+                            "end": 109,
+                            "text": "29\/01\/2019",
+                            "labels": [
+                                "B-INVOICE_DATE"
+                            ]
+                        },
+                        "id": "tBh9vgr-9K",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 214,
+                            "end": 224,
+                            "text": "26\/04\/2019",
+                            "labels": [
+                                "B-DUE_DATE"
+                            ]
+                        },
+                        "id": "u0o_Xwsomp",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 0,
+                            "end": 13,
+                            "text": "Yukon Packing",
+                            "labels": [
+                                "B-VENDOR_NAME"
+                            ]
+                        },
+                        "id": "aQPralwFmg",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "start": 430,
+                            "end": 437,
+                            "text": "S152.25",
+                            "labels": [
+                                "B-TOTAL_AMOUNT"
+                            ]
+                        },
+                        "id": "UIuw9me1k9",
+                        "from_name": "label",
+                        "to_name": "text",
+                        "type": "labels",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-03-18T13:42:35.307848Z",
+                "updated_at": "2026-03-18T13:42:35.307848Z",
+                "draft_created_at": "2026-03-18T13:42:03.299104Z",
+                "lead_time": 45.221,
+                "prediction": {},
+                "result_count": 5,
+                "unique_id": "cd33f2ba-9aff-4d52-b374-5a682415ea7e",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 45,
+                "project": 4,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fdb3337b-invoices.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "text": "Yukon Packing INVOICE NO. CA-001 443 Maple Avenue Ontario, NT B4M 3B7 BILL To SHIP To INVOICE DATE 29\/01\/2019 Alferd Griner Packer Alferd Griner Packer P.0.# 1630\/2019 765 Polar Bear Ave 185 Red River Ave Due DATE 26\/04\/2019 Vancouver; AB T4 Burnaby, NT 281 QtY DESCRIPTION UNIT PRICE AMOUNT Smoked chinook salmon fillet 100.00 100.00 Maple bacon doughnuts 15.00 30.00 Poutine curds 5.00 15.00 Subtolal 145.00 GST 5.0% 7.25 Total S152.25 A XMh Terms Conditions Payment is due within 15 days Please make cheques payable to: Yukon Packing"
+        },
+        "meta": {},
+        "created_at": "2026-03-18T12:29:30.332879Z",
+        "updated_at": "2026-03-18T13:42:35.362704Z",
+        "allow_skip": true,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 4,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]

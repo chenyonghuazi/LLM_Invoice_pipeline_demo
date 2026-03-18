@@ -1,0 +1,7 @@
+extract_text/
+extract_txt/
+sourceData/
+__pycache__/
+**/__pycache__/
+.env
+.vscode/
