@@ -10,4 +10,4 @@ EXPOSE 8000
 
 # CMD ["python3","main.py"]
 
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "${PORT:-8000}", "--workers", "4"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "${PORT:-8000}", "--workers", "4"]
