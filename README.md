@@ -8,7 +8,6 @@ Goal：Highly accurate invoice's pipe extraction/automation (demo)
 
 ## Test in Docker
 
-你只需要 Docker 环境，就能 1 分钟内启动服务并测试。
 
 ```bash
 
@@ -27,7 +26,11 @@ docker run -d -p 8000:8000 <container-id>
 # 4. open browser
 Post request with Json to http://localhost:8000/invoice 
 
-```bash
+```
 
 ## Test in just python
+
+```bash
 python3 main.py
+
+```
