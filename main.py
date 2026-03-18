@@ -1,7 +1,7 @@
 # This is the fastapi app that serves the invoice data extraction model.
 
 from fastapi import FastAPI, HTTPException
-from src.LLM_pipeline import pipeline
+from src.LLM_pipeline_spaCy import pipeline
 from src.model import InvoiceRequest
 import uvicorn
 
